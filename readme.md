@@ -42,8 +42,8 @@ This project aims to predict the Fire Weather Index (FWI) using machine learning
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/omkar703/algerian-forest-fires.git
-   cd algerian-forest-fires
+   git clone https://github.com/omkar703/FWI_prediction
+   cd FWI-prediction
    ```
 2. Install dependencies:
    ```sh
