@@ -51,7 +51,7 @@ This project aims to predict the Fire Weather Index (FWI) using machine learning
    ```
 3. Run the Flask application:
    ```sh
-   python app.py
+   python application.py
    ```
 4. Open the web browser and go to:
    ```
